@@ -17,9 +17,7 @@ jobs:
         with:
           github_user_name: joyjit-paul
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
+            dist/github-snake.svg?color_snake=%2339d353&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
       - name: Push output to a branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
