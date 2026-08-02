@@ -1,0 +1,589 @@
+<svg viewBox="0 0 700 689" xmlns="http://www.w3.org/2000/svg" font-family="monospace" font-size="11">
+<rect width="700" height="689" fill="none"/>
+<style>
+text { fill: #c9d1d9; white-space: pre; }
+
+        .row0 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe0 0.4s steps(30) forwards;
+            animation-delay: 0.00s;
+        }
+        @keyframes wipe0 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row1 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe1 0.4s steps(30) forwards;
+            animation-delay: 0.05s;
+        }
+        @keyframes wipe1 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row2 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe2 0.4s steps(30) forwards;
+            animation-delay: 0.10s;
+        }
+        @keyframes wipe2 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row3 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe3 0.4s steps(30) forwards;
+            animation-delay: 0.15s;
+        }
+        @keyframes wipe3 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row4 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe4 0.4s steps(30) forwards;
+            animation-delay: 0.20s;
+        }
+        @keyframes wipe4 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row5 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe5 0.4s steps(30) forwards;
+            animation-delay: 0.25s;
+        }
+        @keyframes wipe5 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row6 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe6 0.4s steps(30) forwards;
+            animation-delay: 0.30s;
+        }
+        @keyframes wipe6 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row7 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe7 0.4s steps(30) forwards;
+            animation-delay: 0.35s;
+        }
+        @keyframes wipe7 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row8 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe8 0.4s steps(30) forwards;
+            animation-delay: 0.40s;
+        }
+        @keyframes wipe8 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row9 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe9 0.4s steps(30) forwards;
+            animation-delay: 0.45s;
+        }
+        @keyframes wipe9 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row10 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe10 0.4s steps(30) forwards;
+            animation-delay: 0.50s;
+        }
+        @keyframes wipe10 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row11 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe11 0.4s steps(30) forwards;
+            animation-delay: 0.55s;
+        }
+        @keyframes wipe11 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row12 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe12 0.4s steps(30) forwards;
+            animation-delay: 0.60s;
+        }
+        @keyframes wipe12 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row13 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe13 0.4s steps(30) forwards;
+            animation-delay: 0.65s;
+        }
+        @keyframes wipe13 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row14 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe14 0.4s steps(30) forwards;
+            animation-delay: 0.70s;
+        }
+        @keyframes wipe14 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row15 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe15 0.4s steps(30) forwards;
+            animation-delay: 0.75s;
+        }
+        @keyframes wipe15 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row16 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe16 0.4s steps(30) forwards;
+            animation-delay: 0.80s;
+        }
+        @keyframes wipe16 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row17 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe17 0.4s steps(30) forwards;
+            animation-delay: 0.85s;
+        }
+        @keyframes wipe17 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row18 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe18 0.4s steps(30) forwards;
+            animation-delay: 0.90s;
+        }
+        @keyframes wipe18 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row19 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe19 0.4s steps(30) forwards;
+            animation-delay: 0.95s;
+        }
+        @keyframes wipe19 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row20 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe20 0.4s steps(30) forwards;
+            animation-delay: 1.00s;
+        }
+        @keyframes wipe20 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row21 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe21 0.4s steps(30) forwards;
+            animation-delay: 1.05s;
+        }
+        @keyframes wipe21 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row22 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe22 0.4s steps(30) forwards;
+            animation-delay: 1.10s;
+        }
+        @keyframes wipe22 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row23 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe23 0.4s steps(30) forwards;
+            animation-delay: 1.15s;
+        }
+        @keyframes wipe23 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row24 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe24 0.4s steps(30) forwards;
+            animation-delay: 1.20s;
+        }
+        @keyframes wipe24 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row25 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe25 0.4s steps(30) forwards;
+            animation-delay: 1.25s;
+        }
+        @keyframes wipe25 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row26 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe26 0.4s steps(30) forwards;
+            animation-delay: 1.30s;
+        }
+        @keyframes wipe26 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row27 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe27 0.4s steps(30) forwards;
+            animation-delay: 1.35s;
+        }
+        @keyframes wipe27 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row28 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe28 0.4s steps(30) forwards;
+            animation-delay: 1.40s;
+        }
+        @keyframes wipe28 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row29 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe29 0.4s steps(30) forwards;
+            animation-delay: 1.45s;
+        }
+        @keyframes wipe29 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row30 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe30 0.4s steps(30) forwards;
+            animation-delay: 1.50s;
+        }
+        @keyframes wipe30 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row31 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe31 0.4s steps(30) forwards;
+            animation-delay: 1.55s;
+        }
+        @keyframes wipe31 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row32 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe32 0.4s steps(30) forwards;
+            animation-delay: 1.60s;
+        }
+        @keyframes wipe32 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row33 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe33 0.4s steps(30) forwards;
+            animation-delay: 1.65s;
+        }
+        @keyframes wipe33 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row34 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe34 0.4s steps(30) forwards;
+            animation-delay: 1.70s;
+        }
+        @keyframes wipe34 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row35 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe35 0.4s steps(30) forwards;
+            animation-delay: 1.75s;
+        }
+        @keyframes wipe35 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row36 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe36 0.4s steps(30) forwards;
+            animation-delay: 1.80s;
+        }
+        @keyframes wipe36 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row37 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe37 0.4s steps(30) forwards;
+            animation-delay: 1.85s;
+        }
+        @keyframes wipe37 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row38 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe38 0.4s steps(30) forwards;
+            animation-delay: 1.90s;
+        }
+        @keyframes wipe38 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row39 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe39 0.4s steps(30) forwards;
+            animation-delay: 1.95s;
+        }
+        @keyframes wipe39 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row40 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe40 0.4s steps(30) forwards;
+            animation-delay: 2.00s;
+        }
+        @keyframes wipe40 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row41 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe41 0.4s steps(30) forwards;
+            animation-delay: 2.05s;
+        }
+        @keyframes wipe41 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row42 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe42 0.4s steps(30) forwards;
+            animation-delay: 2.10s;
+        }
+        @keyframes wipe42 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row43 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe43 0.4s steps(30) forwards;
+            animation-delay: 2.15s;
+        }
+        @keyframes wipe43 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row44 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe44 0.4s steps(30) forwards;
+            animation-delay: 2.20s;
+        }
+        @keyframes wipe44 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row45 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe45 0.4s steps(30) forwards;
+            animation-delay: 2.25s;
+        }
+        @keyframes wipe45 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row46 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe46 0.4s steps(30) forwards;
+            animation-delay: 2.30s;
+        }
+        @keyframes wipe46 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row47 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe47 0.4s steps(30) forwards;
+            animation-delay: 2.35s;
+        }
+        @keyframes wipe47 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row48 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe48 0.4s steps(30) forwards;
+            animation-delay: 2.40s;
+        }
+        @keyframes wipe48 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row49 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe49 0.4s steps(30) forwards;
+            animation-delay: 2.45s;
+        }
+        @keyframes wipe49 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row50 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe50 0.4s steps(30) forwards;
+            animation-delay: 2.50s;
+        }
+        @keyframes wipe50 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row51 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe51 0.4s steps(30) forwards;
+            animation-delay: 2.55s;
+        }
+        @keyframes wipe51 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+
+        .row52 {
+            clip-path: inset(0 100% 0 0);
+            animation: wipe52 0.4s steps(30) forwards;
+            animation-delay: 2.60s;
+        }
+        @keyframes wipe52 {
+            to { clip-path: inset(0 0 0 0); }
+        }
+        
+</style>
+<text class="row0" x="0" y="13" xml:space="preserve">                                                                                                    </text>
+<text class="row1" x="0" y="26" xml:space="preserve">                                                                                                    </text>
+<text class="row2" x="0" y="39" xml:space="preserve">                                                                                                    </text>
+<text class="row3" x="0" y="52" xml:space="preserve">                                                                                                    </text>
+<text class="row4" x="0" y="65" xml:space="preserve">                                                                                                    </text>
+<text class="row5" x="0" y="78" xml:space="preserve">                                                                                                    </text>
+<text class="row6" x="0" y="91" xml:space="preserve">                                                                                                    </text>
+<text class="row7" x="0" y="104" xml:space="preserve">                                                                                                    </text>
+<text class="row8" x="0" y="117" xml:space="preserve">                                                                                                    </text>
+<text class="row9" x="0" y="130" xml:space="preserve">                                                                                                    </text>
+<text class="row10" x="0" y="143" xml:space="preserve">                                                                                                    </text>
+<text class="row11" x="0" y="156" xml:space="preserve">                                                .`-+****+-`                                         </text>
+<text class="row12" x="0" y="169" xml:space="preserve">                                           `-=++*css####%#s*-.                                      </text>
+<text class="row13" x="0" y="182" xml:space="preserve">                                         -*csssscccs####ss###s*+:                                   </text>
+<text class="row14" x="0" y="195" xml:space="preserve">                                      .+s#sc+*c###########%ssss##s-                                 </text>
+<text class="row15" x="0" y="208" xml:space="preserve">                                     .c%sc*cssssscc****csssccs#####=                                </text>
+<text class="row16" x="0" y="221" xml:space="preserve">                                    .c#sc*cc*+--:::::::--+*ccs#####s.                               </text>
+<text class="row17" x="0" y="234" xml:space="preserve">                                   `s%%#ss*-`.....`````:-==+cs#%###c`                               </text>
+<text class="row18" x="0" y="247" xml:space="preserve">                                   =%%%%s=:`.   ...```::--=+*ss#%#sc.                               </text>
+<text class="row19" x="0" y="260" xml:space="preserve">                                   =%%sc+-:`.   ......``:-=++c#%##sc:                               </text>
+<text class="row20" x="0" y="273" xml:space="preserve">                                   -%%sc=-:``........`:==+****c###ss:                               </text>
+<text class="row21" x="0" y="286" xml:space="preserve">                                   :%%#*---=*c**+=-=++cssscc*==c%sss=                               </text>
+<text class="row22" x="0" y="299" xml:space="preserve">                                    s%#+:-+*c##s+-:=*cs**s#sc+=+c#sc=                               </text>
+<text class="row23" x="0" y="312" xml:space="preserve">                                    -sc*=-=+++=-`:`:*c+--==+++--=#*+=                               </text>
+<text class="row24" x="0" y="325" xml:space="preserve">                                    .-c+:``.....`` :*+=`. .`--:`:ss*.                               </text>
+<text class="row25" x="0" y="338" xml:space="preserve">                                     .=+:``..`:::``+c+*+```:-:::=c*-                                </text>
+<text class="row26" x="0" y="351" xml:space="preserve">                                      `==::-==::-==*s#s*=--=+=--*c-                                 </text>
+<text class="row27" x="0" y="364" xml:space="preserve">                                       `=----+*+==+=+csssc==+*==cc                                  </text>
+<text class="row28" x="0" y="377" xml:space="preserve">                                         ==::=-:``:--===:--+*++*#+                                  </text>
+<text class="row29" x="0" y="390" xml:space="preserve">                                         .=+-`. ..:::``.`:=++*+*#.                                  </text>
+<text class="row30" x="0" y="403" xml:space="preserve">                                           **=-`....`::-=***c**#%-                                  </text>
+<text class="row31" x="0" y="416" xml:space="preserve">                                     .`:-+csc+*****cccsssccss#%%#=                                  </text>
+<text class="row32" x="0" y="429" xml:space="preserve">                              ..:-+*cs#ssss##s*+++*csscss##%%%%%##+`                                </text>
+<text class="row33" x="0" y="442" xml:space="preserve">                        .:-=*cs#####ssscssss####sscss##%%%%%%%%##%%#s-.                             </text>
+<text class="row34" x="0" y="455" xml:space="preserve">                     .-cs#########ssscsscssssss##%%%%%%%%%%%%%%%%%%%%%#*-.                          </text>
+<text class="row35" x="0" y="468" xml:space="preserve">                   `=cs#ssssss#sssssscssccss##########%%%%%%%%%%%%%%##%%%#c:                        </text>
+<text class="row36" x="0" y="481" xml:space="preserve">                 .=csss#ssssss#ssscssccssccccss###%%%%%%%%%%%%%%%%########%%c=`                     </text>
+<text class="row37" x="0" y="494" xml:space="preserve">                :csss#cssssssssssscccccccsccccsss#######%%%###%%#############%#s+:                  </text>
+<text class="row38" x="0" y="507" xml:space="preserve">               -sssss#s##ss#ssss#sscccsscsscsssss#################################c=.               </text>
+<text class="row39" x="0" y="520" xml:space="preserve">              -sssss#####s###sc#ssscscsssssssssssssssssss######s####s##sssss########s+.             </text>
+<text class="row40" x="0" y="533" xml:space="preserve">             :s###ss#####s##sss#sccsssssssssssss############sss####ss##sssss###ss#####*.            </text>
+<text class="row41" x="0" y="546" xml:space="preserve">            `s#####s###%s##ssss#scsssssssssssssssssssssss##sss###ssss#ssssss##ss#######*            </text>
+<text class="row42" x="0" y="559" xml:space="preserve">            *######s%###s#ssscsssssssssssssssssssssssss##sscs##ssscs##ssssc#%ss##ss#####=           </text>
+<text class="row43" x="0" y="572" xml:space="preserve">           +###s###s##%##scssssssssssssss#ssssssssss#ssssccs##sssscs#sssscs%#s##cs#%####s`          </text>
+<text class="row44" x="0" y="585" xml:space="preserve">          +####s#####%%##ssssssssssssssss#sss#########sscs##ssssscc##ssssc#%s##ss#%######+          </text>
+<text class="row45" x="0" y="598" xml:space="preserve">         =###########%%#ss#ss#sssssssssss##s##########scs##sssssscs#sss#ss%###ss%%###%%##s.         </text>
+<text class="row46" x="0" y="611" xml:space="preserve">        :#############%#sssss#sssssssssss##########ssssss#sssssssc##sss#ss%##s#%%#s#%%%%##:         </text>
+<text class="row47" x="0" y="624" xml:space="preserve">       `s########%%#%%%%%#####sssssssssss#########ssssssssssssssss##s###ss%%#%%%#s#%%%%###=         </text>
+<text class="row48" x="0" y="637" xml:space="preserve">      .css#######%%%%%%c*s####sssssssss##########sssssssssssss#sss%####%s#%%%%#ss#%%####%#*         </text>
+<text class="row49" x="0" y="650" xml:space="preserve">     `csss########%%@#:  *#sss####ss##############ssssssssssss#ss#%%##%%##%%##s#%%#####%%#c         </text>
+<text class="row50" x="0" y="663" xml:space="preserve">     *#sssss####%%%%c.   =########################s###############%%%%%%#%%#s#%%###ss%%%%#c         </text>
+<text class="row51" x="0" y="676" xml:space="preserve">    =ss#######%%%%%s     +###############%########################%%%%%%#%%#%####ss#%%%%%#s         </text>
+<text class="row52" x="0" y="689" xml:space="preserve">    s#######%%%%%%%=     *####%%######%%%%%%%#####################%%%%%%%%%%ss##ss#%%##%%#c         </text>
+</svg>

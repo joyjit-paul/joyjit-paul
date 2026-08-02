@@ -1,0 +1,24 @@
+<svg viewBox="0 0 560 224" xmlns="http://www.w3.org/2000/svg" font-family="monospace" font-size="15">
+<rect x="0" y="0" width="560" height="224" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<rect x="0" y="0" width="560" height="40" rx="8" fill="#0d1117"/>
+<circle cx="20" cy="20.0" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="20.0" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="20.0" r="6" fill="#27c93f"/>
+<text x="280.0" y="25.0" text-anchor="middle" fill="#58a6ff">neofetch</text>
+<style>
+.line { opacity: 0; animation: fadeIn 0.4s ease forwards; }
+.line0 { animation-delay: 0.30s; }
+.line1 { animation-delay: 0.45s; }
+.line2 { animation-delay: 0.60s; }
+.line3 { animation-delay: 0.75s; }
+.line4 { animation-delay: 0.90s; }
+.line5 { animation-delay: 1.05s; }
+@keyframes fadeIn { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: translateX(0); } }
+</style>
+<text class="line line0" x="20" y="60"><tspan fill="#7ee787">Now</tspan><tspan fill="#c9d1d9">: Research Intern @ ELITE Research Lab (NLP/CV/Medical</tspan></text>
+<text class="line line1" x="20" y="84"><tspan fill="#c9d1d9">Imaging)</tspan></text>
+<text class="line line2" x="20" y="108"><tspan fill="#7ee787">Prev</tspan><tspan fill="#c9d1d9">: Content Writer @ EduMox</tspan></text>
+<text class="line line3" x="20" y="132"><tspan fill="#7ee787">Stack</tspan><tspan fill="#c9d1d9">: Python, TensorFlow, PyTorch, OpenCV, ReactJS</tspan></text>
+<text class="line line4" x="20" y="156"><tspan fill="#7ee787">Highlights</tspan><tspan fill="#c9d1d9">: 5+ papers (2 in IEEE Xplore) | 98% deepfake</tspan></text>
+<text class="line line5" x="20" y="180"><tspan fill="#c9d1d9">detection acc.</tspan></text>
+</svg>
