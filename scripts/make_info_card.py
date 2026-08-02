@@ -9,12 +9,14 @@ TITLE_BAR_H = 40
 CHAR_W = 9.1  # approx monospace char width at FONT_SIZE=15
 
 FIELDS = [
-    ("Now",        "Research Intern @ ELITE Research Lab (NLP/CV/Medical Imaging)"),
-    ("Prev",       "Content Writer @ EduMox"),
-    ("Stack",      "Python, TensorFlow, PyTorch, OpenCV, ReactJS"),
-    ("Highlights", "5+ papers (2 in IEEE Xplore) | 98% deepfake detection acc."),
+    ("Now",         "Research Intern @ ELITE Research Lab (NLP/CV/Medical Imaging)"),
+    ("Prev",        "Content Writer @ EduMox"),
+    ("Edu",         "B.Sc. CSE, Port City International University ('2024)"),
+    ("Stack",       "Python, TensorFlow, PyTorch, OpenCV, ReactJS"),
+    ("Research",    "5 papers+ | 2 in IEEE Xplore | 1 Q3 journal (under review)"),
+    ("Highlights",  "98% deepfake detection acc. | 96.3% breast cancer diagnosis acc."),
+    ("Talks",       "IEEE ICCIT 2025 & ICECTE 2026 conference presenter"),
 ]
-
 BG_COLOR = "#0d1117"
 BORDER_COLOR = "#30363d"
 TITLE_COLOR = "#58a6ff"
